@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="may_24_ref" label="MAY 24 REF" language="en" table="x_786378_neises_shoes_inventory">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>may_24_ref</element>
+            <help/>
+            <hint/>
+            <label>MAY 24 REF</label>
+            <language>en</language>
+            <name>x_786378_neises_shoes_inventory</name>
+            <plural>MAY 24 REFs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 19:23:38</sys_created_on>
+            <sys_id>0d43bdff2feb4110126eff1df699b6a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>MAY 24 REF</sys_name>
+            <sys_package display_value="Neises" source="x_786378_neises">0b3b48cc2f230110126eff1df699b66f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Neises">0b3b48cc2f230110126eff1df699b66f</sys_scope>
+            <sys_update_name>sys_documentation_x_786378_neises_shoes_inventory_may_24_ref_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 19:23:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

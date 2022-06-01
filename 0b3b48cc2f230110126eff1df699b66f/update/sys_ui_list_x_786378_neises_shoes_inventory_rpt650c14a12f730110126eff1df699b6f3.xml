@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_786378_neises_shoes_inventory" version="2" view="RPT650c14a12f730110126eff1df699b6f3">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>brand</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>350c18252f730110126eff1df699b6f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>product</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>b50c18252f730110126eff1df699b6f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>size</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>390c18252f730110126eff1df699b6f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>may_24_ref</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>b90c18252f730110126eff1df699b6f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>may30_inv_at_house</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>3d0c18252f730110126eff1df699b6f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>may_26_drop_off</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>bd0c18252f730110126eff1df699b6f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>may_21_inventory_at_store</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>310c18252f730110126eff1df699b6f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>may30_inv_at_store</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>b10c18252f730110126eff1df699b6f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>may_21_inventory_sold</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>350c18252f730110126eff1df699b6f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>may30_inv_sold</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>b50c18252f730110126eff1df699b6f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>390c18252f730110126eff1df699b6f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>buyer</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>b90c18252f730110126eff1df699b6f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>3d0c18252f730110126eff1df699b6f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>bd0c18252f730110126eff1df699b6f5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>310c18252f730110126eff1df699b6f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>email</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>15</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>b10c18252f730110126eff1df699b6f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>fees</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>16</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>350c18252f730110126eff1df699b6f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>funding</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>17</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>7d0c58252f730110126eff1df699b602</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>may_21_inventory_at_house</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>18</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>fd0c58252f730110126eff1df699b602</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>may_24_inv_at_house</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>19</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>710c58252f730110126eff1df699b603</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>net_profit</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>20</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>f10c58252f730110126eff1df699b603</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>net_sale</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>21</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>750c58252f730110126eff1df699b603</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>new_may_21_inv_at_house</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>22</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>f50c58252f730110126eff1df699b603</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>o</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>23</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>790c58252f730110126eff1df699b603</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>password</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>24</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>f90c58252f730110126eff1df699b603</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>pay_received</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>25</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>7d0c58252f730110126eff1df699b603</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>pay_type</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>26</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>fd0c58252f730110126eff1df699b603</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>purchase_date</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>27</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>710c58252f730110126eff1df699b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>purchase_price</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>28</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>f10c58252f730110126eff1df699b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sell_price</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>29</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>750c58252f730110126eff1df699b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>ship_or_sell_date</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>30</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>f50c58252f730110126eff1df699b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>shipping</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>31</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>790c58252f730110126eff1df699b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>site</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>32</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>f90c58252f730110126eff1df699b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_tags</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>33</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>7d0c58252f730110126eff1df699b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>tax_shipping</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>34</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>fd0c58252f730110126eff1df699b604</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>total_price</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>35</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>710c58252f730110126eff1df699b605</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>tracking</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>36</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>f10c58252f730110126eff1df699b605</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>37</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>750c58252f730110126eff1df699b605</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_by</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>38</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>f50c58252f730110126eff1df699b605</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_mod_count</element>
+            <list_id display_value="x_786378_neises_shoes_inventory" element="NULL" name="x_786378_neises_shoes_inventory" parent="NULL" relationship="NULL" sys_domain="global" view="b10c18252f730110126eff1df699b6f3">7d0c18252f730110126eff1df699b6f3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>39</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_id>790c58252f730110126eff1df699b605</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_786378_neises_shoes_inventory</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 23:31:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7d0c18252f730110126eff1df699b6f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_786378_neises_shoes_inventory</sys_name>
+            <sys_package display_value="Neises" source="x_786378_neises">0b3b48cc2f230110126eff1df699b66f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Neises">0b3b48cc2f230110126eff1df699b66f</sys_scope>
+            <sys_update_name>sys_ui_list_x_786378_neises_shoes_inventory_RPT650c14a12f730110126eff1df699b6f3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 23:31:52</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt650c14a12f730110126eff1df699b6f3" name="RPT650c14a12f730110126eff1df699b6f3">b10c18252f730110126eff1df699b6f3</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

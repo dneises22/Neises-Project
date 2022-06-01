@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Shoes Inventory" max_length="40" name="x_786378_neises_shoes_inventory" sizeclass="495" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Brand" max_length="40" name="brand" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Buyer" max_length="40" name="buyer" type="string">
+            <choice>
+                <element inactive_on_update="false" label="eBay" value="eBay"/>
+                <element inactive_on_update="false" label="JSAL" value="JSAL"/>
+                <element inactive_on_update="false" label="Stock X" value="Stock X"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="46" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Fees" max_length="40" name="fees" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Funding" max_length="40" name="funding" type="string"/>
+        <element label="May30 Inv At House" max_length="25" name="may30_inv_at_house" type="string"/>
+        <element label="May30 Inv at Store" max_length="25" name="may30_inv_at_store" type="string"/>
+        <element label="May30 Inv Sold" max_length="25" name="may30_inv_sold" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="May 21 Inventory AT HOUSE" max_length="40" name="may_21_inventory_at_house" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="May 21 Inventory AT STORE" max_length="40" name="may_21_inventory_at_store" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="May 21 Inventory SOLD" max_length="40" name="may_21_inventory_sold" type="string"/>
+        <element label="May 24 Inv At House" max_length="50" name="may_24_inv_at_house" type="string"/>
+        <element label="MAY 24 REF" max_length="40" name="may_24_ref" type="integer"/>
+        <element label="May 26 Drop Off" max_length="4" name="may_26_drop_off" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Net Profit" max_length="40" name="net_profit" type="string"/>
+        <element label="Net Sale" max_length="40" name="net_sale" type="integer"/>
+        <element label="New May 21 Inv At House" max_length="10" name="new_may_21_inv_at_house" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="O" max_length="40" name="o" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Password" max_length="40" name="password" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Pay Received" max_length="40" name="pay_received" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Pay Type" max_length="40" name="pay_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product" max_length="59" name="product" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Purchase Date" max_length="40" name="purchase_date" type="string"/>
+        <element label="Purchase Price" max_length="40" name="purchase_price" type="integer"/>
+        <element label="Sell Price" max_length="40" name="sell_price" type="integer"/>
+        <element label="Shipping" max_length="40" name="shipping" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Ship or Sell Date" max_length="40" name="ship_or_sell_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Site" max_length="40" name="site" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Size" max_length="40" name="size" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Tax / Shipping" max_length="40" name="tax_shipping" type="integer"/>
+        <element label="Total Price" max_length="40" name="total_price" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Tracking" max_length="40" name="tracking" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

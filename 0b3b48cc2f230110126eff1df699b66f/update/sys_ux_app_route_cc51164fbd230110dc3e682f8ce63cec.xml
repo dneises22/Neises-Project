@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Neises Config">4051164f7b230110adca73e9bc46d5ef</app_config>
+        <description/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>KB</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>kb</route_type>
+        <screen_type display_value="KB">8451164f1b2301108b2f466eb9c99ced</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 13:39:30</sys_created_on>
+        <sys_id>cc51164fbd230110dc3e682f8ce63cec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KB</sys_name>
+        <sys_package display_value="Neises" source="x_786378_neises">0b3b48cc2f230110126eff1df699b66f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Neises">0b3b48cc2f230110126eff1df699b66f</sys_scope>
+        <sys_update_name>sys_ux_app_route_cc51164fbd230110dc3e682f8ce63cec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-23 13:39:30</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=cc51164fbd230110dc3e682f8ce63cec"/>
+</record_update>

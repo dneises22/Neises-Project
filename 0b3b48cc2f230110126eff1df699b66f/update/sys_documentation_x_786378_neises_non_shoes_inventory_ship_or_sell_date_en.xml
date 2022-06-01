@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ship_or_sell_date" label="Ship or Sell Date" language="en" table="x_786378_neises_non_shoes_inventory">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ship_or_sell_date</element>
+            <help/>
+            <hint/>
+            <label>Ship or Sell Date</label>
+            <language>en</language>
+            <name>x_786378_neises_non_shoes_inventory</name>
+            <plural>Ship or Sell Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-26 18:31:25</sys_created_on>
+            <sys_id>fde0b2002f73c110126eff1df699b606</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Ship or Sell Date</sys_name>
+            <sys_package display_value="Neises" source="x_786378_neises">0b3b48cc2f230110126eff1df699b66f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Neises">0b3b48cc2f230110126eff1df699b66f</sys_scope>
+            <sys_update_name>sys_documentation_x_786378_neises_non_shoes_inventory_ship_or_sell_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-26 18:31:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

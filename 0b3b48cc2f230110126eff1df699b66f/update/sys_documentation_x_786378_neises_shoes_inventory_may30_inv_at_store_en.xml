@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="may30_inv_at_store" label="May30 Inv at Store" language="en" table="x_786378_neises_shoes_inventory">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>may30_inv_at_store</element>
+            <help/>
+            <hint/>
+            <label>May30 Inv at Store</label>
+            <language>en</language>
+            <name>x_786378_neises_shoes_inventory</name>
+            <plural>May30 Inv at Stores</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-30 22:45:25</sys_created_on>
+            <sys_id>e5619c292f330110126eff1df699b6ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>May30 Inv at Store</sys_name>
+            <sys_package display_value="Neises" source="x_786378_neises">0b3b48cc2f230110126eff1df699b66f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Neises">0b3b48cc2f230110126eff1df699b66f</sys_scope>
+            <sys_update_name>sys_documentation_x_786378_neises_shoes_inventory_may30_inv_at_store_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-30 22:45:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
