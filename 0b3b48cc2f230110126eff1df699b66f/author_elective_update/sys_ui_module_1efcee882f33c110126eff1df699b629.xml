@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Non-Shoes Inventory">16fcee882f33c110126eff1df699b61a</application>
+        <filter/>
+        <name>Non-Shoes Inventories</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_786378_neises.non_shoes_inventory_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-26 18:14:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1efcee882f33c110126eff1df699b629</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Non-Shoes Inventories</sys_name>
+        <sys_package display_value="Neises" source="x_786378_neises">0b3b48cc2f230110126eff1df699b66f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Neises">0b3b48cc2f230110126eff1df699b66f</sys_scope>
+        <sys_update_name>sys_ui_module_1efcee882f33c110126eff1df699b629</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-26 18:14:15</sys_updated_on>
+        <table>x_786378_neises_non_shoes_inventory</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Neises">0b3b48cc2f230110126eff1df699b66f</application>
+        <file_path/>
+        <instance_id>7aa0feefdbfd5f00439ef70fbf96192c</instance_id>
+        <instance_name>dev58471</instance_name>
+        <name>sys_ui_module_1efcee882f33c110126eff1df699b629</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Non-Shoes Inventory">16fcee882f33c110126eff1df699b61a</application><filter/><name>Non-Shoes Inventories</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_786378_neises.non_shoes_inventory_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-26 18:14:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>1efcee882f33c110126eff1df699b629</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Non-Shoes Inventories</sys_name><sys_package display_value="Neises" source="x_786378_neises">0b3b48cc2f230110126eff1df699b66f</sys_package><sys_policy/><sys_scope display_value="Neises">0b3b48cc2f230110126eff1df699b66f</sys_scope><sys_update_name>sys_ui_module_1efcee882f33c110126eff1df699b629</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-26 18:14:15</sys_updated_on><table>x_786378_neises_non_shoes_inventory</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-1247940894</payload_hash>
+        <record_name>Non-Shoes Inventories</record_name>
+        <reverted_from/>
+        <source>eff2b2f32f238110126eff1df699b6e9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-26 18:14:15</sys_created_on>
+        <sys_id>1efcee882f33c110126eff1df699b62c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181019389ee0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-26 18:14:15</sys_updated_on>
+        <type>Module</type>
+        <update_guid>56fcee88fa33c110d2c190456adc582c</update_guid>
+        <update_guid_history>56fcee88fa33c110d2c190456adc582c:-1247940894</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-26 18:28:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>5d6bad31e3df4b408277fb37e6e5ede9</sys_id>
+        <sys_metadata>1efcee882f33c110126eff1df699b629</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Non-Shoes Inventories</sys_name>
+        <sys_package display_value="Neises" source="x_786378_neises">0b3b48cc2f230110126eff1df699b66f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Neises">0b3b48cc2f230110126eff1df699b66f</sys_scope>
+        <sys_scope_delete display_value="">48cdcc18ec084c6d94c8aa2858a3c201</sys_scope_delete>
+        <sys_update_name>sys_ui_module_1efcee882f33c110126eff1df699b629</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_1efcee882f33c110126eff1df699b629">1efcee882f33c110126eff1df699b62c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-26 18:28:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

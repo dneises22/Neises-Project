@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Non-Shoes Inventory" max_length="40" name="x_786378_neises_non_shoes_inventory" sizeclass="428" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Brand" max_length="40" name="brand" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Buyer" max_length="54" name="buyer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="47" name="email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Fees" max_length="40" name="fees" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Funding" max_length="40" name="funding" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="L" max_length="40" name="l" type="string"/>
+        <element label="Net Profit" max_length="40" name="net_profit" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Net Sale" max_length="40" name="net_sale" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Password" max_length="40" name="password" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Pay Received" max_length="40" name="pay_received" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Pay Type" max_length="41" name="pay_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Product" max_length="112" name="product" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Purchase Date" max_length="40" name="purchase_date" type="string"/>
+        <element label="Purchase Price" max_length="40" name="purchase_price" type="integer"/>
+        <element label="Sell Price" max_length="40" name="sell_price" type="integer"/>
+        <element label="Shipping" max_length="40" name="shipping" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Ship or Sell Date" max_length="40" name="ship_or_sell_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Site" max_length="40" name="site" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Size" max_length="40" name="size" type="string"/>
+        <element label="Tax/Shipping" max_length="40" name="tax_shipping" type="integer"/>
+        <element label="Total Price" max_length="40" name="total_price" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Tracking" max_length="40" name="tracking" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="W" max_length="40" name="w" type="string"/>
+    </element>
+</database>

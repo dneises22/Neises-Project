@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="new_may_21_inv_at_house" label="New May 21 Inv At House" language="en" table="x_786378_neises_shoes_inventory">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>new_may_21_inv_at_house</element>
+            <help/>
+            <hint/>
+            <label>New May 21 Inv At House</label>
+            <language>en</language>
+            <name>x_786378_neises_shoes_inventory</name>
+            <plural>New May 21 Inv At Houses</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-25 15:53:54</sys_created_on>
+            <sys_id>e043017f2f2b4110126eff1df699b6e1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New May 21 Inv At House</sys_name>
+            <sys_package display_value="Neises" source="x_786378_neises">0b3b48cc2f230110126eff1df699b66f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Neises">0b3b48cc2f230110126eff1df699b66f</sys_scope>
+            <sys_update_name>sys_documentation_x_786378_neises_shoes_inventory_new_may_21_inv_at_house_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-25 15:53:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

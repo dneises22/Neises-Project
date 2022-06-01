@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_map">
+    <sys_transform_map action="DELETE">
+        <active>true</active>
+        <copy_empty_fields>true</copy_empty_fields>
+        <create_new_record_on_empty_coalesce_fields>false</create_new_record_on_empty_coalesce_fields>
+        <enforce_mandatory_fields>No</enforce_mandatory_fields>
+        <name>May26 Transform Map</name>
+        <order>100</order>
+        <run_business_rules>true</run_business_rules>
+        <run_script>false</run_script>
+        <script><![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]></script>
+        <source_table>x_786378_neises_may26_master_inventory</source_table>
+        <sys_class_name>sys_transform_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-26 18:26:42</sys_created_on>
+        <sys_id>fdbf6a8c2f33c110126eff1df699b622</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>May26 Transform Map</sys_name>
+        <sys_package display_value="Neises" source="x_786378_neises">0b3b48cc2f230110126eff1df699b66f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Neises">0b3b48cc2f230110126eff1df699b66f</sys_scope>
+        <sys_update_name>sys_transform_map_fdbf6a8c2f33c110126eff1df699b622</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-26 18:26:42</sys_updated_on>
+        <target_table>x_786378_neises_non_shoes_inventory</target_table>
+    </sys_transform_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Neises">0b3b48cc2f230110126eff1df699b66f</application>
+        <file_path/>
+        <instance_id>7aa0feefdbfd5f00439ef70fbf96192c</instance_id>
+        <instance_name>dev58471</instance_name>
+        <name>sys_transform_map_fdbf6a8c2f33c110126eff1df699b622</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_map"&gt;&lt;sys_transform_map action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;copy_empty_fields&gt;true&lt;/copy_empty_fields&gt;&lt;create_new_record_on_empty_coalesce_fields&gt;false&lt;/create_new_record_on_empty_coalesce_fields&gt;&lt;enforce_mandatory_fields&gt;No&lt;/enforce_mandatory_fields&gt;&lt;name&gt;May26 Transform Map&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;run_business_rules&gt;true&lt;/run_business_rules&gt;&lt;run_script&gt;false&lt;/run_script&gt;&lt;script&gt;&lt;![CDATA[(function transformRow(source, target, map, log, isUpdate) {
+
+	// Add your code here
+
+})(source, target, map, log, action==="update");]]&gt;&lt;/script&gt;&lt;source_table&gt;x_786378_neises_may26_master_inventory&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_map&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-05-26 18:26:42&lt;/sys_created_on&gt;&lt;sys_id&gt;fdbf6a8c2f33c110126eff1df699b622&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;May26 Transform Map&lt;/sys_name&gt;&lt;sys_package display_value="Neises" source="x_786378_neises"&gt;0b3b48cc2f230110126eff1df699b66f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Neises"&gt;0b3b48cc2f230110126eff1df699b66f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_map_fdbf6a8c2f33c110126eff1df699b622&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-05-26 18:26:42&lt;/sys_updated_on&gt;&lt;target_table&gt;x_786378_neises_non_shoes_inventory&lt;/target_table&gt;&lt;/sys_transform_map&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-835056631</payload_hash>
+        <record_name>May26 Transform Map</record_name>
+        <reverted_from/>
+        <source>eff2b2f32f238110126eff1df699b6e9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-26 18:26:42</sys_created_on>
+        <sys_id>20dfe60c2f33c110126eff1df699b6c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181019eefab0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-26 18:26:42</sys_updated_on>
+        <type>Table Transform Map</type>
+        <update_guid>68dfe60c8c33c1103958fafd668aa2c3</update_guid>
+        <update_guid_history>68dfe60c8c33c1103958fafd668aa2c3:-835056631</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-26 20:00:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_transform_map">sys_transform_map</sys_db_object>
+        <sys_id>0160aa77029f46a79d4dd9703b0fb2f9</sys_id>
+        <sys_metadata>fdbf6a8c2f33c110126eff1df699b622</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>May26 Transform Map</sys_name>
+        <sys_package display_value="Neises" source="x_786378_neises">0b3b48cc2f230110126eff1df699b66f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Neises">0b3b48cc2f230110126eff1df699b66f</sys_scope>
+        <sys_scope_delete display_value="">48cdcc18ec084c6d94c8aa2858a3c201</sys_scope_delete>
+        <sys_update_name>sys_transform_map_fdbf6a8c2f33c110126eff1df699b622</sys_update_name>
+        <sys_update_version display_value="sys_transform_map_fdbf6a8c2f33c110126eff1df699b622">20dfe60c2f33c110126eff1df699b6c4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-26 20:00:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
